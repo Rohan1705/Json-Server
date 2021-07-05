@@ -1,0 +1,45 @@
+
+    [
+        {
+            "id" : "31304c6a-151d-46a5-9947-e6b701c865d7",
+            "farmName": "Agriculture Farm",
+            "image": "https://puregreensaz.com/wp-content/uploads/2020/06/dan-meyers-IQVFVH0ajag-unsplash-980x735.jpg",
+            "description": "Agriculture is the practice of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities."
+        },
+        {
+            "id" : "15304c6a-251d-46a5-8947-e6b701c865d7",
+            "farmName": "Poultry Farm",
+            "image": "https://cdn.britannica.com/03/503-050-AEC26FB3/hens-egg-production-White-Leghorn-layer-house.jpg",
+            "description": "Poultry farming is the form of animal husbandry which raises domesticated birds such as chickens, ducks, turkeys and geese to produce meat or eggs for food."
+        },
+        {
+            "id" : "91304c6a-131d-46a5-9847-e6b701c865d7",
+            "farmName": "Dairy Farm",
+            "image": "https://www.gannett-cdn.com/presto/2020/08/19/PWWF/2db59659-0b99-4c0b-b256-fab6f36fab9c-2.jpg",
+            "description": "Dairy farming is a class of agriculture for long-term production of milk, which is processed (either on the farm or at a dairy plant, either of which may be called a dairy) for eventual sale of a dairy product."
+        },
+        {
+            "id" : "41304c6a-191d-46a5-9947-a6b701c865d7",
+            "farmName": "Fish Farm",
+            "image": "https://www.agrifarming.in/wp-content/uploads/2015/02/fish_farming.jpg",
+            "description": "Fish farming is a form of aquaculture in which fish are raised in enclosures to be sold as food. It is the fastest growing area of animal food production."
+        },
+        {
+            "id" : "85304c6a-151d-46a5-9947-e6b701c865d7",
+            "farmName": "Goat Farm",
+            "image": "https://agritech.tnau.ac.in/animal_husbandry/images/dsc00290%20(2).jpg",
+            "description": "Goat farming involves the raising and breeding of domestic goats (Capra aegagrus hircus) as a branch of animal husbandry. People farm goats principally for their meat, milk, fibre and skins."
+        },
+        {
+            "id" : "21304c6a-051d-36a5-9947-j6b701c865d7",
+            "farmName": "Sericulture Farm",
+            "image": "https://1.bp.blogspot.com/-4HEZV0X2MJY/XQUC6lSak_I/AAAAAAAAAFw/bQv4-xUCrm4fqb1EL0mgAW_fLkqBHyowACLcBGAs/s1600/1280-660210930-silk-worms.jpg",
+            "description": "Sericulture, or silk farming, is the cultivation of silkworms to produce silk. Although there are several commercial species of silkworms, Bombyx mori (the caterpillar of the domestic silkmoth) is the most widely used and intensively studied silkworm"
+        },
+        {
+            "id" : "01304c6a-141d-26a5-9947-e6b701c865d7",
+            "farmName": "HoneyBee Farm",
+            "image": "https://www.agrifarming.in/wp-content/uploads/2015/10/Honey-Bee-Farming.jpg",
+            "description": "Beekeeping (or apiculture) is the maintenance of bee colonies, commonly in man-made hives, by humans. Most such bees are honey bees in the genus Apis, but other honey-producing bees such as Melipona stingless bees are also kept."
+        }
+    ]
